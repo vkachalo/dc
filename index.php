@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=win-1251">
 
 </head>
 <body>
@@ -17,6 +17,8 @@
 	curl_close($ch);
 
 	print_r($output);
+	
+
 ?>
 </body>
 </html>
