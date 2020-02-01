@@ -18,7 +18,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=win-1251">
-</head>
+</head>1111
 <body>
 <?php
 
